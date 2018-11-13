@@ -1,0 +1,30 @@
+.page-links {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.page {
+    flex-basis: 33.3333%;
+}
+
+.page-content {
+    padding: 25px 40px;
+}
+
+.page img {
+    width: 60px;
+}
+
+.page-title,
+.page a {
+    color: #001641;
+}
+
+.page a {
+    text-decoration: none;
+    transition: all .3s ease-in-out;
+}
+
+.page a:hover {
+    color: #e05929;
+}
