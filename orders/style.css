@@ -1,0 +1,39 @@
+.vendor p {
+    color: #898B8E;
+    margin: 0;
+}
+
+.vendor-contact {
+    border-bottom: 1px solid #898B8E;
+    display: flex;
+    margin-bottom: 50px;
+    padding: 20px 0;
+}
+
+.vendor-contact p {
+    padding: 6px 0;
+}
+
+.vendor-contact .icon {
+    height: 30px;
+    width: 30px;
+    padding-right: 15px;
+}
+
+.vendor .vendor-city {
+    color: #898B8E;
+}
+
+.vendor .vendor-email {
+    margin-left: 30px;
+}
+
+.vendor .vendor-name {
+    color: #56595B;
+}
+
+.vendor .vendor-number {
+    border-right: 1px solid #898989;
+    margin: 0 15px 0 30px;
+    padding-right: 15px;
+}

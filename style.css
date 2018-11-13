@@ -11,6 +11,56 @@ p {
     color: #56595B;
 }
 
+.flex-container {
+    display: flex;
+    margin: 0 40px;
+}
+
+.section-title {
+    color: #001641;
+    font-size: 22px;
+}
+
+.sidebar-nav {
+    padding-right: 100px;
+}
+
+.sidebar-nav p {
+    color: #001641;
+    font-size: 18px;
+}
+
+.sidebar-nav ul {
+    padding: 0 0 40px 0;
+}
+
+.sidebar-nav li {
+    list-style: none;
+    padding: 4px 0;
+}
+
+.sidebar-nav a {
+    color: #898B8E;
+    text-decoration: none;
+}
+
+.sidebar-nav li a:hover {
+    border-bottom: 2px solid #e05929;
+}
+
+.sidebar-nav .btn {
+    border: 2px solid #001641;
+    font-size: 12px;
+    padding: 8px 16px;
+    text-transform: uppercase;
+    transition: all .3s ease-in-out;
+}
+
+.sidebar-nav .btn:hover {
+    border: 2px solid #e05929;
+    color: #001641;
+}
+
 .title-container {
     border-bottom: 1px solid #BBBCBB;
     display: flex;
