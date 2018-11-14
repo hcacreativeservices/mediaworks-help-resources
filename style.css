@@ -16,13 +16,18 @@ p {
     margin: 0 40px;
 }
 
+.main {
+    flex-basis: 80%;
+    margin-left: 80px;
+}
+
 .section-title {
     color: #001641;
     font-size: 22px;
 }
 
 .sidebar-nav {
-    padding-right: 100px;
+    flex-basis: 20%;
 }
 
 .sidebar-nav p {

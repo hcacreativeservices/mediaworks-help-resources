@@ -1,0 +1,13 @@
+.news-item {
+    border-bottom: 1px solid #898B8E;
+    margin-bottom: 55px;
+    padding-bottom: 40px;
+}
+
+.news-item .headline {
+    color: #898B8E;
+}
+
+.news-item .item-text {
+    font-size: 14px;
+}
